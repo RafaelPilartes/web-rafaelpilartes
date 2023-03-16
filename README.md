@@ -1,6 +1,6 @@
 ## Weather
 
-<img src="https://raw.githubusercontent.com/RafaelPilartes/web-rafaelpilartes/src/images/CoverRafaelPilartes.png" align="center" />
+<img src="https://raw.githubusercontent.com/RafaelPilartes/web-rafaelpilartes/main/src/image/CoverRafaelPilartes.png" align="center" />
 
 Este é o meu portfolio!
 
